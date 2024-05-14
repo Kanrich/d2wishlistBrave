@@ -1,3 +1,8 @@
+title:BRAVE arsenal by Kailexi
+description:Kailexi dream rolls that he WILL get eventually in the vault and probably forget about them
+
+
+
 // The Mountaintop (PvE)
 //notes: if rolled perfectly it's bonkers
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
